@@ -3,14 +3,45 @@
     <head>
         <title>Jordan Bressman Portfolio</title>
 
+    <style>
+	 div {
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+    }
+
+		</style>
+	    
+    <link rel="stylesheet" href="styles.css">
+
     </head>
-    <body>
-            <h3>Three Pages in HTML</h3>
-        <a href="3pages/page1.html">Page 1</a>
-        <a href="3pages/page2.html">Page 2</a>
-        <a href="3pages/page3.html">Page 3</a>
+    <body style="background-color:limegreen; font-family:arial;">
+        
+        <h1>Jordan Bressman's Portfolio</h1>
+	    <h2>Home Page<h2>
+    	<h3> Table of Contents</h3>
+		    
+	<div>	    
+        <h4>Three Pages in HTML</h4>
+    <p>
+        <a href="3pages/page1.html">Page 1</a> <br>
+        <a href="3pages/page2.html">Page 2</a> <br>
+        <a href="3pages/page3.html">Page 3</a> </p> </div>
 
-        <a href="cssdrawing/codedrawing.html">  CODE BASED DRAWING I: PAINTING BY CSS</a>
-
+    <div>
+        <h4>CODE BASED DRAWING I: PAINTING BY CSS</h4>
+        <p> <a href="cssdrawing/codedrawing.html">CODE BASED DRAWING I: PAINTING BY CSS</a> </p> </div>
+        
+    <div>
+        <h4> Other Projects</h4>
+        <p><a href="severalcircles/severalcircles.html">Several Circles Recreation</a></p></div>
+       <script>
+    document.write('<a href="' + document.referrer + '">Go Back</a>');
+</script>
+        
+        
+    </p>
     </body>
 </html>
