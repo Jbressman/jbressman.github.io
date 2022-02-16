@@ -1,0 +1,11 @@
+body {
+background-color: aqua;
+color:black;
+}
+p{
+    font-family: serif;
+}
+h1{
+    color:chocolate;
+    font-weight:bold;
+}
