@@ -18,5 +18,13 @@ body {
     height:200px;
     background-color:bisque;
     z-index: -10;
-    
+
 }
+
+.box {
+    background-color: lightgrey;
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+      }
