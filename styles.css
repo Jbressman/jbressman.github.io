@@ -28,3 +28,11 @@ body {
     padding: 50px;
     margin: 20px;
       }
+
+.basic {
+    background-color: lightgrey;
+    width: 300px;
+    border: 15px solid hotpink;
+    padding: 50px;
+    margin: 20px;
+}
