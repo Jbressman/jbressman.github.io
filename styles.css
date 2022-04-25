@@ -32,7 +32,7 @@ body {
 .basic {
     background-color: lightgrey;
     width: 300px;
-    border: 15px solid green;
+    border: 15px solid pink;
     padding: 50px;
     margin: 20px;
 }
