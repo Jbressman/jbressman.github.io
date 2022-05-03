@@ -36,3 +36,11 @@ body {
     padding: 50px;
     margin: 20px;
 }
+
+.blue {
+    background-color: lightgrey;
+    width: 300px;
+    border: 15px solid #fbec5d;
+    padding: 50px;
+    margin: 20px;
+      }
