@@ -30,7 +30,7 @@ body {
       }
 
 .pink {
-    background-color: magenta;
+    background-color: rgb(251, 122, 251);
     width: 300px;
     border: 15px solid rgb(249, 52, 44);
     padding: 50px;
